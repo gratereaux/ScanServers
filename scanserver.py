@@ -1,3 +1,5 @@
+#Made by: Jose Gratereaux
+
 import requests
 import argparse
 
